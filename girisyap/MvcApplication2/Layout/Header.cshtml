@@ -1,0 +1,20 @@
+﻿@{
+    string cssfile = Request.Url.OriginalString + "CSS/girisyap.css";
+
+    }
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    
+    <link rel="stylesheet" href="@cssfile" />
+
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

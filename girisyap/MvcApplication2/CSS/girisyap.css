@@ -1,0 +1,132 @@
+﻿body {
+}
+
+
+div
+{
+   /* border: 1px solid; */
+    }
+
+.d
+{
+       border: red 1px solid;
+    height: 275px;
+    }
+    
+.dh
+{
+    width: auto;
+    text-align: center;
+    font-size: 80px;
+    vertical-align: middle;
+    padding:10px;
+    }
+    
+ .da
+ {
+    width: auto;
+    height: 50px;
+     }
+  
+  .da1
+  {
+          float: left;
+    min-width: 4%;
+    height: 50px;
+      }
+      
+  .da2
+  {
+          float: left;
+    min-width: 40%;
+    height: 50px;
+        font-size: 35px;
+    text-align: right;
+    padding:2px;
+      }
+      
+  .da3
+  {
+          float: left;
+    min-width: 40%;
+    height: 50px;
+    padding: 4px;
+    padding-left: 20px;
+      }
+      
+  .db
+  {
+    width: auto;
+    height: 50px;
+      }
+      
+  .db1
+  {
+          float: left;
+    min-width: 4%;
+    height: 50px;
+      }
+      
+  .db2
+  {
+          float: left;
+    min-width: 40%;
+    height: 50px;
+        font-size: 35px;
+    text-align: right;
+    padding:2px;
+      }
+      
+  .db3
+  {
+          float: left;
+    min-width: 40%;
+    height: 50px;
+    padding: 4px;
+    padding-left: 20px;
+      }
+      
+   .dc
+  {
+    width: auto;
+    height: 50px;
+      }
+      
+  .dc1
+  {
+          float: left;
+    min-width: 10%;
+    height: 50px;
+      }
+      
+  .dc2
+  {
+          float: left;
+    
+    min-width: 40%;
+    height: 50px;
+      }
+      
+  .dc3
+  {
+          float: left;
+    
+    min-width: 40%;
+    height: 50px;
+      }
+      
+  .inp
+  {
+          border: 1px solid red;
+    font-size: 25px;
+    width: 250px;
+    padding: 4px;
+    padding-left: 20px;
+   }
+ 
+ .bt
+ {
+     
+    font-size: 25px;
+    width: 100px;
+     }

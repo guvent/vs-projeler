@@ -1,0 +1,68 @@
+﻿@{
+    
+    
+    Layout = "~/Layout/Header.cshtml";
+    
+    }
+
+<h2>@ViewBag.deneme</h2><br />
+
+
+@using (Html.BeginForm())
+{
+
+<div class="d">
+
+<div class="dh">Hoşgeldiniz</div>
+
+<div class="da">
+
+<div class="da1">
+
+</div>
+<div class="da2">
+
+Kullanıcı Adı : 
+</div>
+<div class="da3">
+<input type=text name="ka" id="ka" class="inp" />
+</div>
+
+</div>
+
+<div style="clear:left"></div>
+
+<div class="db">
+
+<div class="db1">
+
+</div>
+<div class="db2">
+Şifre : 
+</div>
+<div class="db3">
+<input type="password" name="sf" id="sf" class="inp"/>
+</div>
+
+</div>
+
+<div style="clear:left"></div>
+
+<div class="dc">
+
+<div class="dc1">
+
+</div>
+<div class="dc2">
+
+</div>
+<div class="dc3">
+<input type="submit" name="bt" id="bt" class="bt" value="Giriş"/>
+</div>
+
+</div>
+
+<div class="dright" ></div>
+</div>
+
+}
