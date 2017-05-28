@@ -1,0 +1,13 @@
+﻿Microsoft Sql Compact 3.5 SP2 
+
+Tablo Oluşturmak İçin Komutlar
+
+
+create table musteriler (id int not null primary key, Isim nvarchar(50) not null,Soyisim nvarchar(50) not null,Telefon nvarchar(50),CepTel nvarchar(50),TCNo bigint,MNo bigint  not null,Aktif bit,Parola nvarchar(50))
+
+create table urunler (id int not null primary key, UrunAdi nvarchar(50) not null, UrunKodu nvarchar(50) not null,Barkod nvarchar(50),StokDurumu bit, Fiyat money not null, KDV int,OzelFiyat money)
+
+create table satislar (id int not null primary key, SatisKodu bigint not null, UrunKodu nvarchar(50) not null,Mno bigint not null, Tutar money, KDV int,Kasiyer int not null)
+
+create table kasiyer (id int not null primary key, No int not null ,İsim nvarchar(50) not null,Soyisim nvarchar(50) not null,CepTel nvarchar(50) not null,KullaniciAdi nvarchar(50) not null,Parola nvarchar(50))
+

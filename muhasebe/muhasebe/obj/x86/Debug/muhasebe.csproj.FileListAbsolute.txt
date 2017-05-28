@@ -1,0 +1,16 @@
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\bin\Debug\muhasebe.exe.config
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\bin\Debug\muhasebe.exe
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\bin\Debug\muhasebe.pdb
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\obj\x86\Debug\muhasebe.AnaFrm.resources
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\obj\x86\Debug\muhasebe.Form1.resources
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\obj\x86\Debug\muhasebe.Form2.resources
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\obj\x86\Debug\muhasebe.Form3.resources
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\obj\x86\Debug\muhasebe.hsatis.resources
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\obj\x86\Debug\muhasebe.Properties.Resources.resources
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\obj\x86\Debug\muhasebe.csproj.GenerateResource.Cache
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\obj\x86\Debug\muhasebe.exe
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\obj\x86\Debug\muhasebe.pdb
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\bin\Debug\MyDatabase#1.sdf
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\obj\x86\Debug\muhasebe.Hakkinda.resources
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\obj\x86\Debug\muhasebe.Kasiyer.resources
+c:\users\develop\documents\visual studio 2010\Projects\muhasebe\muhasebe\obj\x86\Debug\muhasebe.login.resources

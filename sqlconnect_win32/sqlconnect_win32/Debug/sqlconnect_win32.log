@@ -1,5 +1,5 @@
-﻿Build started 15.03.2017 15:28:34.
-     1>Project "c:\Users\develop\documents\visual studio 2010\Projects\sqlconnect_win32\sqlconnect_win32\sqlconnect_win32.vcxproj" on node 2 (build target(s)).
+﻿Build started 17.03.2017 11:39:37.
+     1>Project "C:\Users\develop\Documents\Visual Studio 2010\Projects\sqlconnect_win32\sqlconnect_win32\sqlconnect_win32.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\sqlconnect_win32.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
@@ -22,7 +22,7 @@
        ManifestResourceCompile:
          All outputs are up-to-date.
        Link:
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\develop\documents\visual studio 2010\Projects\sqlconnect_win32\Debug\sqlconnect_win32.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\sqlconnect_win32.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\develop\documents\visual studio 2010\Projects\sqlconnect_win32\Debug\sqlconnect_win32.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\develop\documents\visual studio 2010\Projects\sqlconnect_win32\Debug\sqlconnect_win32.lib" /MACHINE:X86 Debug\sqlconnect_win32.res
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\develop\Documents\Visual Studio 2010\Projects\sqlconnect_win32\Debug\sqlconnect_win32.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\sqlconnect_win32.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\develop\Documents\Visual Studio 2010\Projects\sqlconnect_win32\Debug\sqlconnect_win32.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\develop\Documents\Visual Studio 2010\Projects\sqlconnect_win32\Debug\sqlconnect_win32.lib" /MACHINE:X86 Debug\sqlconnect_win32.res
          Debug\sqlconnect_win32.exe.embed.manifest.res
          Debug\sqlconnect_win32.obj
          Debug\stdafx.obj
@@ -31,12 +31,12 @@
          All outputs are up-to-date.
        LinkEmbedManifest:
          All outputs are up-to-date.
-         sqlconnect_win32.vcxproj -> c:\users\develop\documents\visual studio 2010\Projects\sqlconnect_win32\Debug\sqlconnect_win32.exe
+         sqlconnect_win32.vcxproj -> C:\Users\develop\Documents\Visual Studio 2010\Projects\sqlconnect_win32\Debug\sqlconnect_win32.exe
        FinalizeBuildStatus:
          Deleting file "Debug\sqlconnect_win32.unsuccessfulbuild".
          Touching "Debug\sqlconnect_win32.lastbuildstate".
-     1>Done Building Project "c:\Users\develop\documents\visual studio 2010\Projects\sqlconnect_win32\sqlconnect_win32\sqlconnect_win32.vcxproj" (build target(s)).
+     1>Done Building Project "C:\Users\develop\Documents\Visual Studio 2010\Projects\sqlconnect_win32\sqlconnect_win32\sqlconnect_win32.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.37
+Time Elapsed 00:00:01.39
